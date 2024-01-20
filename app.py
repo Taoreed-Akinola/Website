@@ -5,8 +5,8 @@ import subprocess
 app = Flask(__name__)
 
 SCRIPTS = {
-    'script1': 'path/to/script1.py',
-    'script2': 'path/to/script2.py',
+    'script1': '/home/taoreed/code1.py',
+    'script2': '/home/taoreed/code2.py',
     # Add more scripts as needed
 }
 
